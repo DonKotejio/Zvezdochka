@@ -1,0 +1,17 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "////////////////////////\r #version home: 0.0.1\r ///////////////////////\r #version project: 0.0.1_prealpha\r ///////////////////////",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "fastapi": "^0.0.8",
+    "unicorn": "^0.0.1"
+  }
+}
