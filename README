@@ -2,6 +2,6 @@
 ////////////////////////
 #version home: 0.0.1
 ///////////////////////
-#version project: 0.0.1_prealpha
+#version project: 0.0.2_prealpha(patch 1)
 ///////////////////////
 
